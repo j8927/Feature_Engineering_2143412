@@ -1,0 +1,2 @@
+BestParams,Accuracy,Precision,Recall,F1,ROC_AUC
+"{'model__max_depth': 6, 'model__min_samples_split': 2, 'model__n_estimators': 100}",0.8212290502793296,0.7534246575342466,0.7971014492753623,0.7746478873239436,0.8546113306982873

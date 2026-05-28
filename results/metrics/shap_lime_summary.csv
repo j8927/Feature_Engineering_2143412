@@ -1,0 +1,2 @@
+Method,TopFeatures,LIME_HTML,LIME_TXT,Accuracy,Precision,Recall,F1,ROC_AUC
+SHAP,"Title_Mr, Sex_female, Sex_male, FarePerPerson, Pclass, Fare, Age, Title_Mrs, Title_Miss, Embarked_S",results/figures/lime_explanation_sample0.html,results/figures/lime_explanation_sample0.txt,0.8212290502793296,0.7936507936507936,0.7246376811594203,0.7575757575757576,0.8240447957839263

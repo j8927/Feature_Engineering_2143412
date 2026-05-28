@@ -1,0 +1,10 @@
+Sex_female <= 0.00: -0.1404
+0.00 < Sex_male <= 1.00: -0.1329
+0.00 < Title_Mr <= 1.00: -0.1315
+AgeGroup_Child <= 0.00: -0.0713
+-0.37 < Pclass <= 0.83: -0.0607
+Title_Master <= 0.00: -0.0538
+-0.35 < FarePerPerson <= -0.32: -0.0536
+Title_Mrs <= 0.00: -0.0485
+Embarked_C <= 0.00: -0.0416
+Title_Miss <= 0.00: -0.0334
